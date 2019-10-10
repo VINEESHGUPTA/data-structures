@@ -38,7 +38,7 @@ int main()
     insertNode(38);    insertNode(43);    insertNode(49);
     insertNode(39);    insertNode(45);    insertNode(44);
     insertNode(30);    insertNode(41);    insertNode(70);
-    insertNode(46);    insertNode(59);
+    insertNode(46);    insertNode(59);    insertNode(59);
 
 
     //In-order output:   30 38 39 40 41 43 44 45 46 47 49 54 59 70
