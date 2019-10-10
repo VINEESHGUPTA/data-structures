@@ -32,6 +32,7 @@ int main()
     insertNode(40);
     insertNode(49);
     insertNode(38);
+    insertNode(38);
     insertNode(70);
     insertNode(30);
     insertNode(39);
